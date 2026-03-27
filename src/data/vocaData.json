@@ -1,0 +1,9 @@
+[
+  { "id": 1, "word": "Agreement", "meaning": "계약, 합의", "learned": false },
+  { "id": 2, "word": "Applicant", "meaning": "지원자, 신청자", "learned": false },
+  { "id": 3, "word": "Authorization", "meaning": "권한 부여, 허가", "learned": false },
+  { "id": 4, "word": "Benefit", "meaning": "혜택, 이익", "learned": false },
+  { "id": 5, "word": "Candidate", "meaning": "후보자", "learned": false },
+  { "id": 6, "word": "Deadline", "meaning": "마감 기한", "learned": false }
+
+]
